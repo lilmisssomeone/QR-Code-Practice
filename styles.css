@@ -1,0 +1,28 @@
+body{
+    background-color: #D5E1EF;
+    text-align: center;
+    font-family: Outfit;
+    
+}
+.whitebox{
+    background-color: #FFFFFF;
+    padding: 16px 16px 40px 16px;
+    margin:150px auto;
+    width: 320px;
+    border-radius: 20px;
+}
+img{
+   width: 320px;
+   border-radius: 15px;
+  }
+.Improve{
+    margin-top: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.by{
+margin-top: 10px;
+}
+div{
+font-size: 15px;
+}
