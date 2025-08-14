@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/lilmisssomeone/QR-Code-Practice.git
-- Live Site URL: https://QR-Code-Practice-flax.vercel.app
+- Live Site URL: https://qr-code-practice-ctgn.vercel.app/
 
 ### Built with
 
